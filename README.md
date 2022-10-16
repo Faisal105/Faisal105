@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Faisal105
-- 👀 I’m interested in web development-front end developer also intrested in react js node js 
-- 🌱 I’m currently learning react ,node and js
-- 💞️ I’m looking to collaborate on mern stack projects...
+- 👀 I’m interested in full-Stack development  
+- 🌱 I’m currently Working as mean stack developer,hybris and SAP
+- 💞️ I’m looking to collaborate on mern/mean stack projects...
 - 📫 feel free to contact me on whatsapp +92-3067921322 or send an email faisalbashir517@gmail.com
 
 <!---
